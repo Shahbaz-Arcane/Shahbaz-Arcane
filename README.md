@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**Shahbaz-Arcane/Shahbaz-Arcane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shahbaz-Arcane. a cybersecurity learner based in Bangladesh
 
-Here are some ideas to get you started:
+Currently working into:
+- 🐍 Python
+- 🔐 Cybersecurity fundamentals
+- 🛠️ Learning the System
+  
+As a beginner, I've built one project: [Mini Budget Manager](https://github.com/Shahbaz-Arcane/mini-budget-manager)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repos!
+Still learning, Hope to build more and share with you all soon.
+
+Fun Facts:
+ • Love Animals
+ • Love Travelling 
+ • Love to listen Musics
+
+That's it.
