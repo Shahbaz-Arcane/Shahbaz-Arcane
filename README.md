@@ -13,7 +13,6 @@ Feel free to explore my repos!
 Still learning, Hope to build more and share with you all soon.
 
 Fun Facts:
-
  • Love Animals
  • Love Travelling 
  • Love to listen Musics
